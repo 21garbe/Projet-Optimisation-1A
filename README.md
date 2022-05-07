@@ -4,4 +4,4 @@ Ce projet constitue le premier projet d'optimisation de la première année de M
 ## Quelques remarques sur les différentes questions abordées.
 
 ### QUESTION 4 : 
-&ensp; Dans un premier temps, nous avons voulu ajouter les contraintes sur thêta dans le problème d'optimisation. Cependant, il semble plus judicieux, en plus de la contrainte (que l'on laisse par sécurité) de s'assurer artificiellement que thêta reste bien entre -pi et pi.
+&ensp; $\longrightarrow$ Dans un premier temps, nous avons voulu ajouter les contraintes sur thêta dans le problème d'optimisation. Cependant, il semble plus judicieux, en plus de la contrainte (que l'on laisse par sécurité) de s'assurer artificiellement que thêta reste bien entre -pi et pi.
